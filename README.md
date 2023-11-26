@@ -1,3 +1,3 @@
-# monospring.github.io
+# gamepunch.cc
 Company Website
 main: index.html
